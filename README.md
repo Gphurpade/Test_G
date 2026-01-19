@@ -1,19 +1,22 @@
-<<<<<<< HEAD
 # Test
 hello from manasi
-=======
+hii it's me
+hello it's me 
 i am megha
 Rugved Kulkarni
 # Test
+
 Om Here
 
-hello everyone 
+hello everyone
 Soham here
 hello bhavesh
+Hii
+this is apeksha
 
 Its srushti
 hello
 
 
 hello nirjala
->>>>>>> c858ce8784423f5ca5e5e93b3f90f11ae9f07ea3
+how are you
